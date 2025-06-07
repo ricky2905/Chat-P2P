@@ -1,5 +1,3 @@
----
-
 # 🇮🇹 P2P Chat Application
 
 Questa applicazione implementa una chat peer-to-peer reale con interfaccia grafica Tkinter e crittografia simmetrica (AES via cryptography.Fernet). Ogni peer è autonomo: si comporta sia da server che da client, con connessione diretta.
